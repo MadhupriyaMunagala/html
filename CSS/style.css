@@ -1,0 +1,17 @@
+.N{
+ background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaX2CQqFQP8LBfvHrjUQY32hiZ-2sqzRM-0et3XIJwow&s);
+ width: 100%;
+ height:700px;
+ background-attachment: cover;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+.welcome{
+    top:50px;
+    padding-left: 600px;
+}
+.image{
+    padding-left: 400px;
+    margin: 300px;
+}
