@@ -1,17 +1,18 @@
 .N{
- background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaX2CQqFQP8LBfvHrjUQY32hiZ-2sqzRM-0et3XIJwow&s);
+ background-image:url(https://png.pngtree.com/background/20211215/original/pngtree-three-child-policy-three-child-red-and-concise-picture-image_1475266.jpg);
  width: 100%;
- height:700px;
+ height:600px;
  background-attachment: cover;
  background-repeat: no-repeat;
  background-size: cover;
  
+ 
 }
 .welcome{
     top:50px;
-    padding-left: 600px;
+    font-size: 30px;
 }
 .image{
-    padding-left: 400px;
+    padding-left: 300px;
     margin: 300px;
 }
